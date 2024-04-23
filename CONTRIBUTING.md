@@ -71,8 +71,8 @@ If you're a Helixiora team member, please report the issues to the Engineering t
 ### External contributors
 If you're a third-party contributor, please check that there's no open issue addressing the problem before creating a new GitHub issue.
 
-## Documentation ✍
+## Documentation
 Each individual project shall have documentation specific to it. 
 
-## Questions 🙋
+## Questions
 All questions can be directed to the Engineering team. If you are external we welcome all communication via Github's channels or e-mail.
